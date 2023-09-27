@@ -16,7 +16,7 @@ spring:
   datasource:
     # URL connection to database (spring-security is database name)
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/users
+    url: jdbc:postgresql://localhost:5432/webkey
     username: postgres
     password: Ger3133Lo
     platform: postgres
