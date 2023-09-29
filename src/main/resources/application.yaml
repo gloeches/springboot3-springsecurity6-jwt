@@ -17,8 +17,8 @@ spring:
     # URL connection to database (spring-security is database name)
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/webkey
-    username: postgres
-    password: Ger3133Lo
+    username: agilent
+    password: 3000Hanover+
     platform: postgres
 token:
   signing:
